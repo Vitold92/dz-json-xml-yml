@@ -1,0 +1,47 @@
+id: 1
+firstName: Bogdan
+lastName: Kotugoroshko
+age: 21
+email: kotugoroshko@example.com
+phone: "+38 097 256 78 65"
+address:
+  street: Heroiv Ukrainu
+  city: Poltava
+  region: Poltavska
+  zip: "52005"
+courses:
+  - Math
+  - English
+  - History
+grades:
+  Math: 91
+  English: 89
+  History: 84
+isGraduated: false
+birthdate: "15-06-2002"
+gpa: 4
+hasScholarship: true
+emergencyContacts:
+  primary:
+    name: Svitlana Kotugoroshko
+    relationship: Parent
+    phone: "+38 097 912 23 56"
+  secondary:
+    name: Igor Kolosenko
+    relationship: Friend
+    phone: "+38 097 506 25 78"
+major:
+  name: Computer Science
+  department: Engineering
+  university: KPI
+previousEducation:
+  first:
+    name: School 56
+    location: Poltava
+    graduationYear: 2018
+    degree: null
+  second:
+    name: Englsih Dom
+    location: online
+    graduationYear: 2019
+    degree: B2

@@ -1,0 +1,59 @@
+<student>
+    <id>1</id>
+    <firstName>Bogdan</firstName>
+    <lastName>Kotugoroshko</lastName>
+    <age>21</age>
+    <email>kotugoroshko@example.com</email>
+    <phone>+38 097 256 78 65</phone>
+    <address>
+        <street>Heroiv Ukrainu</street>
+        <city>Poltava</city>
+        <region>Poltavska</region>
+        <zip>52005</zip>
+    </address>
+    <courses>
+        <course>Math</course>
+        <course>English</course>
+        <course>History</course>
+    </courses>
+    <grades>
+        <Math>91</Math>
+        <English>89</English>
+        <History>84</History>
+    </grades>
+    <isGraduated>false</isGraduated>
+    <birthdate>15-06-2002</birthdate>
+    <gpa>4</gpa>
+    <hasScholarship>true</hasScholarship>
+    <emergencyContacts>
+        <contact>
+            <name>Svitlana Kotugoroshko</name>
+            <relationship>Parent</relationship>
+            <phone>+38 097 912 23 56</phone>
+        </contact>
+        <contact>
+            <name>Igor Kolosenko</name>
+            <relationship>Friend</relationship>
+            <phone>+38 097 506 25 78</phone>
+        </contact>
+    </emergencyContacts>
+    <major>
+        <name>Computer Science</name>
+        <department>Engineering</department>
+        <university>KPI</university>
+    </major>
+    <previousEducation>
+        <education>
+            <name>School 56</name>
+            <location>Poltava</location>
+            <graduationYear>2018</graduationYear>
+            <degree></degree>
+        </education>
+        <education>
+            <name>Englsih Dom</name>
+            <location>online</location>
+            <graduationYear>2019</graduationYear>
+            <degree>B2</degree>
+        </education>
+    </previousEducation>
+</student>
